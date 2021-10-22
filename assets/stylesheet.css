@@ -1,0 +1,50 @@
+.cell {
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      border-bottom-left-radius: 15px;
+      border-bottom-right-radius: 15px;
+      border: 4px solid LightGray;
+      margin-bottom: 10px;
+      margin-right: 10px;
+    }
+.button-max {
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      border-bottom-left-radius: 15px;
+      border-bottom-right-radius: 15px;
+      border: 3px solid green;
+    }
+.button-update {
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      border-bottom-left-radius: 15px;
+      border-bottom-right-radius: 15px;
+      border: 3px solid red;
+      min-width: 250px;
+      height: 50px;
+    }
+.map {
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+      border-bottom-left-radius: 30px;
+      border-bottom-right-radius: 30px;
+      border: 0px;
+      margin-left: 30px;
+    }
+.dropdown {
+      border-radius: 10px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+/*       text-align: center; */
+/*       border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      border-bottom-left-radius: 15px;
+      border-bottom-right-radius: 15px; */
+      border: 3px solid LightGray;
+      margin-bottom: 10px;
+      width: 60%;
+/*       height: 10%; */
+      
+/*       margin-right: 10px; */
+    }
