@@ -32,19 +32,17 @@
       margin-left: 30px;
     }
 .dropdown {
-      border-radius: 10px;
+      border-radius: 7px;
       display: block;
       margin-left: auto;
       margin-right: auto;
-/*       text-align: center; */
-/*       border-top-left-radius: 15px;
-      border-top-right-radius: 15px;
-      border-bottom-left-radius: 15px;
-      border-bottom-right-radius: 15px; */
       border: 3px solid LightGray;
+      padding: auto;
       margin-bottom: 10px;
       width: 60%;
-/*       height: 10%; */
-      
-/*       margin-right: 10px; */
     }
+.text {
+      text-Align: center;
+      font-size: 25px;
+      font-weight: 700;
+}
