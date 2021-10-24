@@ -20,7 +20,7 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 
-with open('B:\Workspace\python\Web\Otomoto_web\Otomoto_web\Data_to_Otomoto.json') as file:
+with open('Data_to_Otomoto.json') as file:
     Data_to_Otomoto = json.loads(file.read())
     car_brand = Data_to_Otomoto["car_brand"]
     options = Data_to_Otomoto["options"]
