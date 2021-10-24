@@ -9,3 +9,4 @@ numpy==1.20.3
 pandas==1.2.4
 psycopg2-binary==2.9.1
 waitress
+statsmodels
